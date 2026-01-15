@@ -16,7 +16,6 @@ avl-vs-btree/
 │   ├── avl_tree.py        # AVL implementation + visualization
 │   ├── b_tree.py          # B-Tree implementation
 │   ├── benchmark.py      # Benchmark scripts
-│   ├── plot_results.py   # Plot generation
 │   └── datasets.py       # Dataset generator
 │
 ├── tests/
